@@ -1,0 +1,15 @@
+.options {
+  display: flex;
+  justify-content: space-between;
+}
+
+.categoryOptions {
+  font-size: 16px;
+  list-style: none;
+  text-transform: uppercase;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  padding: 0 10px;
+  height: 100%;
+}

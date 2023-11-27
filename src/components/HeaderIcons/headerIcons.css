@@ -1,0 +1,10 @@
+.icons {
+  list-style: none;
+  display: flex;
+}
+
+.iconsOptions {
+  display: flex;
+  padding: 0 10px;
+  margin-right: 25px;
+}
